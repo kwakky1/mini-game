@@ -1,0 +1,58 @@
+{
+  "items": [
+    {"type": "t-shirt",
+     "gender": "male",
+     "size": "large",
+     "color": "pink",
+     "img": "./img/pink_t.png"
+    },
+    {"type": "t-shirt",
+      "gender": "male",
+      "size": "large",
+      "color": "yellow",
+      "img": "./img/yellow_t.png"
+    },
+    {"type": "skirt",
+      "gender": "female",
+      "size": "small",
+      "color": "pink",
+      "img": "./img/pink_s.png"
+    },
+    {"type": "pents",
+      "gender": "male",
+      "size": "large",
+      "color": "yellow",
+      "img": "./img/yellow_p.png"
+    },
+    {"type": "t-shirt",
+      "gender": "male",
+      "size": "small",
+      "color": "blue",
+      "img": "./img/blue_t.png"
+    },
+    {"type": "skirt",
+      "gender": "female",
+      "size": "small",
+      "color": "yellow",
+      "img": "./img/yellow_s.png"
+    },
+    {"type": "t-shirt",
+      "gender": "male",
+      "size": "large",
+      "color": "pink",
+      "img": "./img/pink_t.png"
+    },
+    {"type": "skirt",
+      "gender": "female",
+      "size": "large",
+      "color": "blue",
+      "img": "./img/blue_s.png"
+    },
+    {"type": "t-shirt",
+      "gender": "male",
+      "size": "large",
+      "color": "yellow",
+      "img": "./img/yellow_t.png"
+    }
+  ]
+}
